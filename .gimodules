@@ -1,0 +1,2 @@
+[submodule "deps/archive_xl/vendor/RED4ext.SDK"]
+	url = https://github.com/wopss/RED4ext.SDK.git
